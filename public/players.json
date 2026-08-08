@@ -1,0 +1,302 @@
+[
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=1",
+    "name": "Arman Hossain",
+    "country": "Bangladesh",
+    "playingRole": "batsman",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 89,
+    "price": 950000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=2",
+    "name": "Rayan Ahmed",
+    "country": "India",
+    "playingRole": "all-rounder",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 92,
+    "price": 1250000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=3",
+    "name": "Kabir Sharma",
+    "country": "India",
+    "playingRole": "batsman",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "left-arm",
+    "rating": 87,
+    "price": 850000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=4",
+    "name": "Liam Carter",
+    "country": "England",
+    "playingRole": "batsman",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 91,
+    "price": 1100000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=5",
+    "name": "Noah Williams",
+    "country": "Australia",
+    "playingRole": "all-rounder",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 94,
+    "price": 1450000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=6",
+    "name": "Ethan Miller",
+    "country": "Australia",
+    "playingRole": "bowler",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 88,
+    "price": 900000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=7",
+    "name": "Zain Malik",
+    "country": "Pakistan",
+    "playingRole": "batsman",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "left-arm",
+    "rating": 90,
+    "price": 1050000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=8",
+    "name": "Hamza Farooq",
+    "country": "Pakistan",
+    "playingRole": "all-rounder",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 86,
+    "price": 780000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=9",
+    "name": "Dinesh Perera",
+    "country": "Sri Lanka",
+    "playingRole": "bowler",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 84,
+    "price": 650000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=10",
+    "name": "Kavin Fernando",
+    "country": "Sri Lanka",
+    "playingRole": "batsman",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 82,
+    "price": 600000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=11",
+    "name": "Ryan Mitchell",
+    "country": "New Zealand",
+    "playingRole": "all-rounder",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 93,
+    "price": 1350000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=12",
+    "name": "Oliver Grant",
+    "country": "England",
+    "playingRole": "bowler",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "left-arm",
+    "rating": 89,
+    "price": 920000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=13",
+    "name": "Daniel Brooks",
+    "country": "England",
+    "playingRole": "batsman",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 85,
+    "price": 720000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=14",
+    "name": "Jacob Wilson",
+    "country": "Australia",
+    "playingRole": "bowler",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "left-arm",
+    "rating": 91,
+    "price": 1150000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=15",
+    "name": "Aarav Patel",
+    "country": "India",
+    "playingRole": "all-rounder",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "left-arm",
+    "rating": 88,
+    "price": 980000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=16",
+    "name": "Samiul Karim",
+    "country": "Bangladesh",
+    "playingRole": "bowler",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 83,
+    "price": 550000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=17",
+    "name": "Nabil Hasan",
+    "country": "Bangladesh",
+    "playingRole": "batsman",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 86,
+    "price": 700000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=18",
+    "name": "Usman Raza",
+    "country": "Pakistan",
+    "playingRole": "bowler",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 87,
+    "price": 800000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=19",
+    "name": "Marcus Taylor",
+    "country": "South Africa",
+    "playingRole": "all-rounder",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 90,
+    "price": 1120000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=20",
+    "name": "Thabo Nkosi",
+    "country": "South Africa",
+    "playingRole": "bowler",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 85,
+    "price": 730000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=21",
+    "name": "Aiden Jacobs",
+    "country": "South Africa",
+    "playingRole": "batsman",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "left-arm",
+    "rating": 89,
+    "price": 950000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=22",
+    "name": "Mohammad Zaki",
+    "country": "Afghanistan",
+    "playingRole": "all-rounder",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 91,
+    "price": 1080000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=23",
+    "name": "Farid Ahmad",
+    "country": "Afghanistan",
+    "playingRole": "bowler",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 88,
+    "price": 850000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=24",
+    "name": "Dev Mehta",
+    "country": "India",
+    "playingRole": "batsman",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 93,
+    "price": 1300000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=25",
+    "name": "Rohan Desai",
+    "country": "India",
+    "playingRole": "bowler",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "left-arm",
+    "rating": 81,
+    "price": 500000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=26",
+    "name": "Ben Cooper",
+    "country": "New Zealand",
+    "playingRole": "batsman",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 84,
+    "price": 680000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=27",
+    "name": "Nathan King",
+    "country": "New Zealand",
+    "playingRole": "bowler",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 90,
+    "price": 1000000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=28",
+    "name": "George Adams",
+    "country": "England",
+    "playingRole": "all-rounder",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "left-arm",
+    "rating": 87,
+    "price": 820000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=29",
+    "name": "Rizwan Haque",
+    "country": "Bangladesh",
+    "playingRole": "all-rounder",
+    "battingStyle": "left-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 89,
+    "price": 970000
+  },
+  {
+    "playerImage": "https://i.pravatar.cc/150?img=30",
+    "name": "Yasir Khan",
+    "country": "Pakistan",
+    "playingRole": "batsman",
+    "battingStyle": "right-hand",
+    "bowlingStyle": "right-arm",
+    "rating": 92,
+    "price": 1200000
+  }
+]
